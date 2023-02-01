@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      <section className="Counters">
-        <Counter max={15} step={5} />
+        <Counter />
       </section>
     </div>
   );
